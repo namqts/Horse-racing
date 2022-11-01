@@ -1,0 +1,14 @@
+com/HorseBetting/HorseBetting/ReactNativeFlipper.java
+ com.HorseBetting.HorseBetting.ReactNativeFlipper
+ com.HorseBetting.HorseBetting.ReactNativeFlipper$1
+ com.HorseBetting.HorseBetting.ReactNativeFlipper$2
+ com.HorseBetting.HorseBetting.ReactNativeFlipper$2$1
+com/HorseBetting/HorseBetting/MainActivity.java
+ com.HorseBetting.HorseBetting.MainActivity
+com/HorseBetting/HorseBetting/BuildConfig.java
+ com.HorseBetting.HorseBetting.BuildConfig
+com/HorseBetting/HorseBetting/MainApplication.java
+ com.HorseBetting.HorseBetting.MainApplication
+ com.HorseBetting.HorseBetting.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

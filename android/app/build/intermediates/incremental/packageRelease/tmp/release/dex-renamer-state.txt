@@ -1,0 +1,7 @@
+#Mon Oct 24 11:12:53 ICT 2022
+base.1=D\:\\TestTranfer\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes2.dex
+path.1=classes2.dex
+base.0=D\:\\TestTranfer\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

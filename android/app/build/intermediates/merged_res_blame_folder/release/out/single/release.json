@@ -1,0 +1,386 @@
+[
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_ethereumjscommon_dist_chains_goerli.json.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_ethereumjscommon_dist_chains_goerli.json"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_node_modules_reactnavigation_bottomtabs_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxhdpi\\node_modules_reactnavigation_bottomtabs_node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_ethereumjscommon_dist_chains_kovan.json.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_ethereumjscommon_dist_chains_kovan.json"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_ethereumjscommon_dist_hardforks_istanbul.json.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_ethereumjscommon_dist_hardforks_istanbul.json"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_ethereumjscommon_dist_hardforks_dao.json.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_ethereumjscommon_dist_hardforks_dao.json"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_bgbetting.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_bgbetting.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_icons_add.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_icons_add.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_parseasn1_aesid.json.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_parseasn1_aesid.json"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_websocket_package.json.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_websocket_package.json"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_contact.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_contact.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_pizza_cheese.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_pizza_cheese.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_bubbletea.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_bubbletea.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_pizzashop.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_pizzashop.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_icons_account_tab.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_icons_account_tab.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_reactnavigation_stack_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnavigation_stack_node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_browserifysign_browser_curves.json.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_browserifysign_browser_curves.json"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_pudding.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_pudding.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_walletconnect_reactnativedapp_dist_assets_walletconnectlogo.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_walletconnect_reactnativedapp_dist_assets_walletconnectlogo.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_icons_profile.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_icons_profile.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_cids_node_modules_multicodec_src_basetable.json.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_cids_node_modules_multicodec_src_basetable.json"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_elliptic_package.json.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_elliptic_package.json"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_pizza_menu.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_pizza_menu.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_artifacts_contracts_pizzashopsol_pizzashop.json.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\raw\\artifacts_contracts_pizzashopsol_pizzashop.json"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_node_modules_reactnavigation_bottomtabs_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\node_modules_reactnavigation_bottomtabs_node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_ethereumjscommon_dist_chains_rinkeby.json.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_ethereumjscommon_dist_chains_rinkeby.json"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_strawberrybackground.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_strawberrybackground.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_iconmeta.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_iconmeta.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_reactnavigation_bottomtabs_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnavigation_bottomtabs_node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_icons_rewardcup.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_icons_rewardcup.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_ethereumjscommon_dist_hardforks_muirglacier.json.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_ethereumjscommon_dist_hardforks_muirglacier.json"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_icons_bubbletea.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_icons_bubbletea.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_logo.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_logo.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_icons_milk2.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_icons_milk2.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_icetea.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_icetea.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_ethereumjscommon_dist_hardforks_constantinople.json.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_ethereumjscommon_dist_hardforks_constantinople.json"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_language.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_language.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_coffeecup.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_coffeecup.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_reactnative_package.json.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_reactnative_package.json"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_icons_wallet_tab.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_icons_wallet_tab.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_icons_heart.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_icons_heart.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_icons_search.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_icons_search.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_node_modules_reactnavigation_bottomtabs_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-hdpi\\node_modules_reactnavigation_bottomtabs_node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_ethereumjscommon_dist_chains_ropsten.json.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_ethereumjscommon_dist_chains_ropsten.json"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_icons_sunny.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_icons_sunny.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_node_modules_reactnavigation_bottomtabs_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxxhdpi\\node_modules_reactnavigation_bottomtabs_node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_web3_package.json.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_web3_package.json"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_ethereumjscommon_dist_hardforks_byzantium.json.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_ethereumjscommon_dist_hardforks_byzantium.json"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_icons_home.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_icons_home.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_ethereumjscommon_dist_chains_mainnet.json.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_ethereumjscommon_dist_chains_mainnet.json"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_cheesecake.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_cheesecake.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_ethereumjscommon_dist_hardforks_spuriousdragon.json.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_ethereumjscommon_dist_hardforks_spuriousdragon.json"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_user_icon.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_user_icon.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_icons_leftarrow.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_icons_leftarrow.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_icons_minus.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_icons_minus.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_ethereumjscommon_dist_hardforks_tangerinewhistle.json.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_ethereumjscommon_dist_hardforks_tangerinewhistle.json"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_ethereumjscommon_dist_hardforks_homestead.json.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_ethereumjscommon_dist_hardforks_homestead.json"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_water.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_water.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_icons_rightarrow.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_icons_rightarrow.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_pizza_mushrooms.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_pizza_mushrooms.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_browserifysign_browser_algorithms.json.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_browserifysign_browser_algorithms.json"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_multicodec_src_basetable.json.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_multicodec_src_basetable.json"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_icons_bookmarkfill.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_icons_bookmarkfill.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_icons_bookmark.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_icons_bookmark.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_drink_menu.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_drink_menu.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_node_modules_reactnavigation_stack_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxxhdpi\\node_modules_reactnavigation_stack_node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_node_modules_reactnavigation_stack_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-hdpi\\node_modules_reactnavigation_stack_node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_ethereumjscommon_dist_hardforks_chainstart.json.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_ethereumjscommon_dist_hardforks_chainstart.json"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_node_modules_reactnavigation_stack_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxhdpi\\node_modules_reactnavigation_stack_node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_coke.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_coke.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_browserifyaes_modes_list.json.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_browserifyaes_modes_list.json"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_icons_milk3.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_icons_milk3.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_pizza_pep.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_pizza_pep.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_icons_coffeecup.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_icons_coffeecup.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_cupcake.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_cupcake.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_diffiehellman_lib_primes.json.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_diffiehellman_lib_primes.json"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_reactnavigation_bottomtabs_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnavigation_bottomtabs_node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_reactnavigation_stack_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnavigation_stack_node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_icons_milk.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_icons_milk.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_node_modules_reactnavigation_stack_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\node_modules_reactnavigation_stack_node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_icons_night.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_icons_night.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_cake_menu.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_cake_menu.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_icons_shoppingcart.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_icons_shoppingcart.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_ethereumjscommon_dist_hardforks_petersburg.json.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_ethereumjscommon_dist_hardforks_petersburg.json"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_icons_pizza_tab.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_icons_pizza_tab.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_assets_images_wallet.png.flat",
+        "source": "D:\\TestTranfer\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\assets_images_wallet.png"
+    },
+    {
+        "merged": "D:\\TestTranfer\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable_splashscreen.xml.flat",
+        "source": "D:\\TestTranfer\\android\\app\\src\\main\\res\\drawable\\splashscreen.xml"
+    }
+]

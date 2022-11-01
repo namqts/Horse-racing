@@ -1,0 +1,180 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.HorseBetting.HorseBetting"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:2:3-64
+11-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:2:20-62
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:3:3-77
+12-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:3:20-75
+13    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+13-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:4:3-75
+13-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:4:20-73
+14    <uses-permission android:name="android.permission.VIBRATE" />
+14-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:5:3-63
+14-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:5:20-61
+15    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+15-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:6:3-78
+15-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:6:20-76
+16
+17    <queries>
+17-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:7:3-13:13
+18        <intent>
+18-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:8:5-12:14
+19            <action android:name="android.intent.action.VIEW" />
+19-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:9:7-58
+19-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:9:15-56
+20
+21            <category android:name="android.intent.category.BROWSABLE" />
+21-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:10:7-67
+21-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:10:17-65
+22
+23            <data android:scheme="https" />
+23-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:11:7-37
+23-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:11:13-35
+24        </intent>
+25        <!-- Query open documents -->
+26        <intent>
+26-->[:expo-file-system] D:\TestTranfer\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:19:9-21:18
+27            <action android:name="android.intent.action.OPEN_DOCUMENT_TREE" />
+27-->[:expo-file-system] D:\TestTranfer\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:20:13-79
+27-->[:expo-file-system] D:\TestTranfer\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:20:21-76
+28        </intent>
+29    </queries>
+30
+31    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+32    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+32-->[com.android.installreferrer:installreferrer:1.0] C:\Users\Nam-QTS\.gradle\caches\transforms-3\4d1b11d3ac4ac30ad853ae2c76e730dc\transformed\jetified-installreferrer-1.0\AndroidManifest.xml:9:5-110
+32-->[com.android.installreferrer:installreferrer:1.0] C:\Users\Nam-QTS\.gradle\caches\transforms-3\4d1b11d3ac4ac30ad853ae2c76e730dc\transformed\jetified-installreferrer-1.0\AndroidManifest.xml:9:22-107
+33
+34    <application
+34-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:14:3-33:17
+35        android:name="com.HorseBetting.HorseBetting.MainApplication"
+35-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:14:16-47
+36        android:allowBackup="true"
+36-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:14:162-188
+37        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+37-->[androidx.core:core:1.6.0] C:\Users\Nam-QTS\.gradle\caches\transforms-3\63630bff35c5941492530625c68eb7d4\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+38        android:icon="@mipmap/ic_launcher"
+38-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:14:81-115
+39        android:label="@string/app_name"
+39-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:14:48-80
+40        android:roundIcon="@mipmap/ic_launcher_round"
+40-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:14:116-161
+41        android:theme="@style/AppTheme"
+41-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:14:189-220
+42        android:usesCleartextTraffic="true" >
+42-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:14:221-256
+43        <meta-data
+43-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:15:5-82
+44            android:name="expo.modules.updates.ENABLED"
+44-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:15:16-59
+45            android:value="true" />
+45-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:15:60-80
+46        <meta-data
+46-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:16:5-93
+47            android:name="expo.modules.updates.EXPO_SDK_VERSION"
+47-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:16:16-68
+48            android:value="44.0.0" />
+48-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:16:69-91
+49        <meta-data
+49-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:17:5-105
+50            android:name="expo.modules.updates.EXPO_UPDATES_CHECK_ON_LAUNCH"
+50-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:17:16-80
+51            android:value="ALWAYS" />
+51-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:17:81-103
+52        <meta-data
+52-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:18:5-99
+53            android:name="expo.modules.updates.EXPO_UPDATES_LAUNCH_WAIT_MS"
+53-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:18:16-79
+54            android:value="0" />
+54-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:18:80-97
+55        <meta-data
+55-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:19:5-120
+56            android:name="expo.modules.updates.EXPO_UPDATE_URL"
+56-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:19:16-67
+57            android:value="https://exp.host/@anonymous/pizzas" />
+57-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:19:68-118
+58
+59        <activity
+59-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:20:5-31:16
+60            android:name="com.HorseBetting.HorseBetting.MainActivity"
+60-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:20:15-43
+61            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+61-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:20:77-154
+62            android:label="@string/app_name"
+62-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:20:44-76
+63            android:launchMode="singleTask"
+63-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:20:155-186
+64            android:theme="@style/Theme.App.SplashScreen"
+64-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:20:230-275
+65            android:windowSoftInputMode="adjustResize" >
+65-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:20:187-229
+66            <intent-filter>
+66-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:21:7-24:23
+67                <action android:name="android.intent.action.MAIN" />
+67-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:22:9-60
+67-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:22:17-58
+68
+69                <category android:name="android.intent.category.LAUNCHER" />
+69-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:23:9-68
+69-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:23:19-66
+70            </intent-filter>
+71            <intent-filter>
+71-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:25:7-30:23
+72                <action android:name="android.intent.action.VIEW" />
+72-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:9:7-58
+72-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:9:15-56
+73
+74                <category android:name="android.intent.category.DEFAULT" />
+74-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:27:9-67
+74-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:27:19-65
+75                <category android:name="android.intent.category.BROWSABLE" />
+75-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:10:7-67
+75-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:10:17-65
+76
+77                <data android:scheme="com.HorseBetting.HorseBetting" />
+77-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:11:7-37
+77-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:11:13-35
+78            </intent-filter>
+79        </activity>
+80        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+80-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:32:5-81
+80-->D:\TestTranfer\android\app\src\main\AndroidManifest.xml:32:15-79
+81
+82        <provider
+82-->[:expo-file-system] D:\TestTranfer\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:25:9-34:20
+83            android:name="expo.modules.filesystem.FileSystemFileProvider"
+83-->[:expo-file-system] D:\TestTranfer\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:26:13-74
+84            android:authorities="com.HorseBetting.HorseBetting.FileSystemFileProvider"
+84-->[:expo-file-system] D:\TestTranfer\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:27:13-74
+85            android:exported="false"
+85-->[:expo-file-system] D:\TestTranfer\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:28:13-37
+86            android:grantUriPermissions="true" >
+86-->[:expo-file-system] D:\TestTranfer\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:29:13-47
+87            <meta-data
+87-->[:expo-file-system] D:\TestTranfer\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:31:13-33:70
+88                android:name="android.support.FILE_PROVIDER_PATHS"
+88-->[:expo-file-system] D:\TestTranfer\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:32:17-67
+89                android:resource="@xml/file_system_provider_paths" />
+89-->[:expo-file-system] D:\TestTranfer\node_modules\expo-file-system\android\build\intermediates\library_manifest\release\AndroidManifest.xml:33:17-67
+90        </provider>
+91
+92        <meta-data
+92-->[:expo-modules-core] D:\TestTranfer\node_modules\expo-modules-core\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:9-14:89
+93            android:name="org.unimodules.core.AppLoader#react-native-headless"
+93-->[:expo-modules-core] D:\TestTranfer\node_modules\expo-modules-core\android\build\intermediates\library_manifest\release\AndroidManifest.xml:13:13-79
+94            android:value="expo.modules.adapters.react.apploader.RNHeadlessAppLoader" />
+94-->[:expo-modules-core] D:\TestTranfer\node_modules\expo-modules-core\android\build\intermediates\library_manifest\release\AndroidManifest.xml:14:13-86
+95    </application>
+96
+97</manifest>

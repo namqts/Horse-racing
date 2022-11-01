@@ -1,0 +1,9 @@
+com/HorseBetting/HorseBetting/MainActivity.java
+ com.HorseBetting.HorseBetting.MainActivity
+com/HorseBetting/HorseBetting/BuildConfig.java
+ com.HorseBetting.HorseBetting.BuildConfig
+com/HorseBetting/HorseBetting/MainApplication.java
+ com.HorseBetting.HorseBetting.MainApplication
+ com.HorseBetting.HorseBetting.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
